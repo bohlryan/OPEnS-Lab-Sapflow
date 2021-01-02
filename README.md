@@ -27,4 +27,4 @@ When the IDE opens, verify that the Adafruit Feather M0 Microcontroller is conne
 At this point the upload can begin.
 
 
-Further Instructions can be seen in the Hardwarex article
+Further Instructions for hardware assembly, connections, and operation can be seen in the Hardwarex article
