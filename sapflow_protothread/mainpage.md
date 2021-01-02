@@ -1,8 +1,6 @@
 Sapflow Measurment Cycle          {#mainpage}
 ==================
 
-![Timing diagram for sapflow measurement](timing.png)
-
 **Baseline:** Measures the initial temperature at the upper and lower probe. Samples temperature once per second for 10 seconds. See baseline() for details.
 
 **Heating:** Turns on the heater probe for 6 seconds. See schedule() for details.
