@@ -20,4 +20,11 @@ For using this code, the following libraries must be installed:
 - [ASF core](https://github.com/adafruit/Adafruit_ASFcore.git) commit f6ffa8b
 - [Plog](https://github.com/OPEnSLab-OSU/plog)
 
-For flashing the Arduino code, open the sapflow_protothread folder and open the sapflow_protothread.ino file
+## Using Code
+
+For flashing the Arduino code, open the sapflow_protothread folder and open the sapflow_protothread.ino file.
+When the IDE opens, verify that the Adafruit Feather M0 Microcontroller is connected to a COM port.
+At this point the upload can begin.
+
+
+Further Instructions can be seen in the Hardwarex article
