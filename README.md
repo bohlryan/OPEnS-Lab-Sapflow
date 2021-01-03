@@ -17,7 +17,7 @@ For using this code, the following libraries must be installed:
 - [RadioHead](https://github.com/adafruit/RadioHead)
 - [ArduinoJSON](https://github.com/bblanchon/ArduinoJson)
 - [FeatherFault](https://github.com/OPEnSLab-OSU/FeatherFault)
-- [ASF core](https://github.com/adafruit/Adafruit_ASFcore.git) commit f6ffa8b
+- [ASF core](https://github.com/adafruit/Adafruit_ASFcore/tree/f6ffa8b2bc2477566c8406e5f3fa883b137347f1) commit f6ffa8b
 - [Plog](https://github.com/OPEnSLab-OSU/plog)
 
 ## Using Code
