@@ -1,0 +1,22 @@
+{
+    "creators": [
+        {
+            "affiliation": "Lead engineer on Sapflow Project in Oregon State's OPEnS Lab.",
+            "name": "Ryan Bohl",
+        },
+       
+    ],
+    "description": "Write description of the project",
+    "keywords": [
+        "Agriculture", 
+        "Measurement", 
+        "Ecology", 
+        "Arduino",
+        "Orchard",
+        "Sap Flow Rate"
+    ],
+    "license": {
+        "id": "gpl-3.0"
+    },
+    "title": "Sapflow Meter"
+}
