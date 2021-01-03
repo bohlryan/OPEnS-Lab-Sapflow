@@ -28,3 +28,8 @@ At this point the upload can begin.
 
 
 Further Instructions for hardware assembly, connections, and operation can be seen in the Hardwarex article
+
+## Other Files
+
+The Development only folder contains code that was used for the base station in a past implementation of the hardware (seen in the Feather9x_RX subfolder).
+The Development only folder also contains the mcp3424_code subfolder which contains code that helped in the development of reading ADC values in the hardware setup.
