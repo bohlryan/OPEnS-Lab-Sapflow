@@ -1,12 +1,31 @@
 {
     "creators": [
         {
-            "affiliation": "Lead engineer on Sapflow Project in Oregon State's OPEnS Lab.",
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab",
             "name": "Ryan Bohl",
         },
-       
+         {
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab",
+            "name": "Stephen Miller",
+        },
+         {
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab",
+            "name": "Jackson Miller",
+        },
+         {
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab",
+            "name": "Marshal Horn",
+        },
+         {
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab",
+            "name": "Joshua Barksdale",
+        },
+        {
+            "affiliation": "Openly Published Environmental Sensing (OPEnS) Lab",
+            "name": "Vlad Vesely",
+        }
     ],
-    "description": "Write description of the project",
+    "description": "The Sapflow Meter is a probe system that can measure and track the flow rate of sap within trees",
     "keywords": [
         "Agriculture", 
         "Measurement", 
@@ -18,5 +37,5 @@
     "license": {
         "id": "gpl-3.0"
     },
-    "title": "Sapflow Meter"
+    "title": "Affordable and Accurate Tree Sap Flow Rate Measurement"
 }
